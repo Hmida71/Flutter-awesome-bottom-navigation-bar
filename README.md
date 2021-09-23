@@ -45,6 +45,6 @@ bottomNavigationBar: FlashyTabBar(
 ),
 </code></pre>
 
-Note From : flashy_tab_bar in pub.dev !! 
+Note From : flashy_tab_bar in <a href="pub.dev">pub.dev</a> !! 
 
 <h1> 🐱‍👤 made with algeria 🖤 </h1>
