@@ -46,5 +46,8 @@ bottomNavigationBar: FlashyTabBar(
 </code></pre>
 
 Note From : flashy_tab_bar in <a href="https://pub.dev/packages/flashy_tab_bar">pub.dev</a> !! 
+<br>
+Note : This flashy_tab_bar Don't Support Null Safety if you need flashy_tab_bar with null Safty install :
+flashy_tab_bar2 from => <a href="https://pub.dev/packages/flashy_tab_bar2">pub.dev</a>
 
 <h1> 🐱‍👤 made with algeria 🖤 </h1>
