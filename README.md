@@ -45,6 +45,13 @@ bottomNavigationBar: FlashyTabBar(
 ),
 </code></pre>
 
+<h4>and Add this also in your Class </h4>
+<pre><code>
+var _selectedIndex = 0 ;
+</code></pre>
+
+
+
 Note From : flashy_tab_bar in <a href="https://pub.dev/packages/flashy_tab_bar">pub.dev</a> !! 
 <br>
 Note : This flashy_tab_bar Don't Support Null Safety if you need flashy_tab_bar with null Safty install :
